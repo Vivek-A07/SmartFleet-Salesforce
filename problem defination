@@ -1,1 +1,9 @@
-Factories and warehouses often rely on industrial vehicles such as forklifts, AGVs (Automated Guided Vehicles), and delivery trucks. Currently, service logs, fuel usage, and breakdown incidents are tracked manually. This leads to unexpected breakdowns, high maintenance costs, and difficulty in monitoring fleet performance across multiple sites.
+ Integrate IoT sensors from vehicles to monitor fuel, battery, and engine health
+
+Automate maintenance ticket creation when vehicles cross usage thresholds
+
+Assign vehicles to tasks automatically based on availability
+
+Track spare parts inventory and generate automated restocking alerts
+
+Provide dashboards showing fleet utilization, downtime, and cost efficiency
